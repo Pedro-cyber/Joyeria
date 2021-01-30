@@ -1,0 +1,16 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="normal" stroke="#000" transform="matrix(6.458725267550348,0,0,6.738150236477104,-1163.6383916049103,-1317.8728205750026) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="26" id="svg_1" y="227.270405" x="182.387871" stroke-width="0" fill="#ffffff">Joyería</text>
+  <text font-weight="normal" stroke="#000" transform="matrix(6.458725267550348,0,0,6.738150236477104,-1163.6383916049103,-1317.8728205750026) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="26" id="svg_7" y="260.365541" x="217.069638" stroke-width="0" fill="#ffffff">iménez</text>
+  <text font-weight="normal" stroke="#000" transform="rotate(11.961748123168945 171.88009643554628,368.6977233886718) matrix(9.072956325194623,0,0,7.951055010791875,-1699.842435435093,-1611.5498085182335) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="26" id="svg_8" y="258.083476" x="199.564397" stroke-width="0" fill="#ffffff">J</text>
+ </g>
+</svg>
